@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/element--ui-2.7.0-brightgreen.svg" alt="element-ui">
   </a>
   <a href="https://vuex.vuejs.org/zh/">
-    <img src="https://img.shields.io/badge/vuex-3.4.0-brightgreen.svg" alt="element-ui">
+    <img src="https://img.shields.io/badge/vue-3.4.0-brightgreen" alt="vuex">
   </a>
   
 </p>
